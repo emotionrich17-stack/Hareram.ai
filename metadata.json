@@ -1,0 +1,8 @@
+{
+  "name": "Hareram AI",
+  "description": "A comprehensive AI application powered by Gemini, offering a wide range of functionalities including chat, image and video generation, real-time voice conversations, content analysis, and grounded search.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
